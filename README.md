@@ -2,9 +2,7 @@
 
 Stay productive and organized with this simple, beautiful, and efficient To-Do List app.
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/gauravghongde/social-icons@main/SVG/Color/Todoist.svg" alt="To-Do List Banner" width="120px" />
-</p>
+
 
 
 ---
